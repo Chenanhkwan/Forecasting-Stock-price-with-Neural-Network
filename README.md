@@ -14,7 +14,7 @@ NOTE: While many researches focus on predicting the stock's price, this project 
     RSI (): 
     William %R: 
     
-<2>
+<2>j
 <3>
 <4>
 <5>
